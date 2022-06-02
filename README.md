@@ -2,7 +2,7 @@
 
 ## Belajar Pull Request
 [Marsel](marsel/index3.html)
-[Rizky](hsn/rizky.html)
+[Rizky](/rizky.html)
 ## Belajar Bikin Release Candidate
 def
 ## Belajar Markdown
