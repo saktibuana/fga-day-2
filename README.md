@@ -2,6 +2,7 @@
 
 ## Belajar Pull Request
 [Marsel](/marsel/index3.html)
+[Ari Pramana](/index10.html)
 ## Belajar Bikin Release Candidate
 def
 ## Belajar Markdown
