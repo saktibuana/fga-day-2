@@ -9,6 +9,7 @@
 [Irfan](/irfan.html)
 [Ilham](/ilham.html)
 [Hendry](/hendry.html)
+[Arisk](/arisk.html)
 ## Belajar Bikin Release Candidate
 def
 ## Belajar Markdown
