@@ -1,6 +1,7 @@
 # Ini adalah Materi FGA Hari ke-2
 
 ## Belajar Pull Request
+[marsel](/index3.html)
 [Rizky](/rizky.html)
 [Marsel](/marsel/index3.html)
 [Dihas](dihas.html)
