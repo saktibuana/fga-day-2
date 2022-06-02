@@ -7,6 +7,7 @@
 [Ari Pramana](/index10.html)
 [Sakhrifal](/sakhrifal.html)
 [Irfan](/irfan.html)
+[dani](/dani.html)
 ## Belajar Bikin Release Candidate
 def
 ## Belajar Markdown
