@@ -17,6 +17,7 @@
 [Arisk](/arisk.html)
 [Gunawan](/index99.html)
 [WisnuRizki](/wisnurizki.html)
+[Faihza](/faihza.html)
 ## Belajar Bikin Release Candidate
 def
 ## Belajar Markdown
