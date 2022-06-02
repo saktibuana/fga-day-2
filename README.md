@@ -6,6 +6,7 @@
 [Dihas](dihas.html)
 [Ari Pramana](/index10.html)
 [Sakhrifal](/sakhrifal.html)
+[Samuel_Yusa](/master/index99.html)
 ## Belajar Bikin Release Candidate
 def
 ## Belajar Markdown
