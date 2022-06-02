@@ -6,6 +6,9 @@
 [Dihas](dihas.html)
 [Ari Pramana](/index10.html)
 [Sakhrifal](/sakhrifal.html)
+[Irfan](/irfan.html)
+[Ilham](/ilham.html)
+[Hendry](/hendry.html)
 ## Belajar Bikin Release Candidate
 def
 ## Belajar Markdown
