@@ -3,7 +3,6 @@
 ## Belajar Pull Request
 [marsel](/index3.html)
 [Rizky](/rizky.html)
-[Marsel](/marsel/index3.html)
 [Dihas](dihas.html)
 [Ari Pramana](/index10.html)
 [Sakhrifal](/sakhrifal.html)
