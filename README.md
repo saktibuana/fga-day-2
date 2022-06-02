@@ -12,11 +12,10 @@
 [Hendry](/hendry.html)
 
 
-
-
 [Arisk](/arisk.html)
 [Gunawan](/index99.html)
 [WisnuRizki](/wisnurizki.html)
+[Pasha](/pasha.html)
 ## Belajar Bikin Release Candidate
 def
 ## Belajar Markdown
