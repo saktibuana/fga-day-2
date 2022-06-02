@@ -1,7 +1,7 @@
 # Ini adalah Materi FGA Hari ke-2
 
 ## Belajar Pull Request
-a  b cd
+[Pull Request](/index10.html)
 ## Belajar Bikin Release Candidate
 def
 ## Belajar Markdown
