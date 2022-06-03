@@ -20,7 +20,7 @@
 [Pasha](/pasha.html)
 [Reynaldi Febriansyah](/reynaldi.html)
 
-[khalishL2](/khalish2.html)
+[khalishL](/khalish2.html)
 
 ## Belajar Bikin Release Candidate
 
