@@ -1,6 +1,8 @@
 # Ini adalah Materi FGA Hari ke-2
 
 ## Belajar Pull Request
+
+[khalishL](/khalish.html)
 [Marsel](/marsel.html)
 [Rizky](/rizky.html)
 [Dihas](dihas.html)
@@ -17,11 +19,15 @@
 [WisnuRizki](/wisnurizki.html)
 [Pasha](/pasha.html)
 [Reynaldi Febriansyah](/reynaldi.html)
+
+[khalishL2](/khalish2.html)
+
 ## Belajar Bikin Release Candidate
 
-
 def
+
 ## Belajar Markdown
+
 egfg
 
 ===========
